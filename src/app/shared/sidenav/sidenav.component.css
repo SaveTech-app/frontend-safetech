@@ -1,0 +1,51 @@
+.sidenav-container {
+  height: 100%;
+}
+
+.sidenav {
+  width: 200px;
+}
+
+.sidenav .mat-toolbar {
+  background: inherit;
+}
+
+.mat-toolbar.mat-primary {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+/* Mis estilos */
+
+.sidenav-toolbar{
+  background-color: #37619D !important; 
+}
+
+.item-sidenav{
+  color: white;
+}
+
+mat-nav-list{
+  padding: 0;
+}
+
+mat-sidenav{
+  background-color: #37619D;
+}
+
+
+mat-nav-list{
+  padding: 0;
+}
+
+
+/* .item-sidenav{
+  width: 100%;
+  padding: 0%;
+  margin: 0%;
+  color: white;
+} */
+
+
+
